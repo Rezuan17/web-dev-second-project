@@ -139,3 +139,34 @@ font-style: oblique;
     margin-left: 50px;
 }
 
+/* BMI styles */
+.bmi-content{
+   text-align: center;
+}
+.bmi-head{
+    font-weight: 500px;
+    font-size: 3rem;
+    color: #FFFFFF;
+}
+.bmi-peru{
+    font-weight: 300px;
+    font-size: 0.875rem;
+    color: darkgrey;
+}
+/*table styles  */
+.calculator-table{
+    color: #FFFFFF;
+}
+.table-form, th, td{
+    border: 1.5px solid grey;
+    border-collapse: collapse;
+}
+.calculator-table{
+    margin-left: 120px;
+    margin-top: 57px;
+}
+
+
+
+
+
