@@ -113,3 +113,14 @@ font-style: oblique;
 .div-4, h5, p{
     color: #FFFFFF;
 }
+/* section-3rd */
+
+.Run-container{
+    display: flex; 
+   color: #FFFFFF; 
+} 
+.run-head{
+    font-weight: 600px;
+    font-size: 3rem;
+    counter-reset: skyblue;
+}
