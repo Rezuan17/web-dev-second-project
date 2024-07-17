@@ -154,8 +154,16 @@ font-style: oblique;
     color: darkgrey;
 }
 /*table styles  */
+
+.table-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
 .calculator-table{
     color: #FFFFFF;
+   
 }
 .table-form, th, td{
     border: 1.5px solid grey;
@@ -164,6 +172,15 @@ font-style: oblique;
 .calculator-table{
     margin-left: 120px;
     margin-top: 57px;
+}
+.form-head{
+    font-weight: 400pc;
+    font-size: 1.75rem;
+    color: #FFFFFF;
+    margin-botom: 50px;
+}
+.peru-form{
+    margin-bottom: 40px;
 }
 
 
