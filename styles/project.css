@@ -117,10 +117,25 @@ font-style: oblique;
 
 .Run-container{
     display: flex; 
-   color: #FFFFFF; 
+   color: #FFFFFF;
+   margin-left: 120px; 
+   margin-top: 70px;
 } 
 .run-head{
     font-weight: 600px;
     font-size: 3rem;
     counter-reset: skyblue;
 }
+.btn-run{
+    background-color: #E6533C;
+    color: #FFFFFF;
+    width: 160px;
+     height: 40px;
+    font-size: 1.125rem;
+    border-radius: 20px;
+    border-style: none;
+}
+.run-content{
+    margin-left: 50px;
+}
+
