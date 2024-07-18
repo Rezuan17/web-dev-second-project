@@ -183,7 +183,88 @@ font-style: oblique;
     margin-bottom: 40px;
 }
 
+/* trainer styles */
 
+
+.trainer-content{
+    text-align: center;
+}
+
+.trainer-image img{
+    /* width: 100%;
+    height: 100%; */
+   width: 200px;
+   height: 200px;
+
+}
+.trainer-image{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    gap: 40px;
+    margin-top: 65px;
+    margin-left: 120px;
+    margin-right: 120px;
+}
+
+.image-1 {
+   width: 200px;
+   height: 200px;
+}
+.trainer-head{
+    font-weight: 600px;
+    font-size: 3rem;
+    color: #FFFFFF;
+    margin-top: 150px;
+} 
+.trainer-peru{
+    margin-bottom: 10px;
+}
+.image-6{
+    width: 100%;
+}
+/* .name-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    /* background-color: rgba(0, 0, 0, 0.7); Semi-transparent background */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
+.name-overlay p {
+    margin: 0;
+    font-size: 1em;
+} */
+
+/* fitness container */
+.fitness-container{
+    width: 800px;
+    height: 700px;
+    display: flex;
+    margin-top: 50px;
+}
+.footer-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+    gap: 40px;
+}
+.footer-content{
+    color: #FFFFFF;
+    margin-right: 150px;
+   
+}
+.content-2, ul li{
+    color: #FFFFFF;
+    list-style: none;
+    margin-right: 50px;
+}
+.content-3{
+    color: #FFFFFF;
+    list-style: none;
+}
 
 
 
